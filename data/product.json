@@ -1,0 +1,29 @@
+[{
+    "_id": "643b0e6f98c805254f3f0f98",
+    "name": "Hamburger",
+    "price": 10,
+    "photo": "hamburger.jpg",
+    "quantity": 50,
+    "category":"643b0dc998c805254f3f0f8c"
+    
+  },
+  {
+    "_id": "643b0ea198c805254f3f0f9a",
+    "name": "Cheese Pizza",
+    "price": 15,
+    "photo": "cheese-pizza.jpg",
+    "quantity": 30,
+    "category": "643b0dd198c805254f3f0f8e"
+
+  },
+  {
+    "_id": "643b0ec198c805254f3f0f9c",
+    "name": "Caesar Salad",
+    "price": 8,
+    "photo": "caesar-salad.jpg",
+    "quantity": 20,
+    "category":"643b0dd898c805254f3f0f90"
+
+  }
+
+]

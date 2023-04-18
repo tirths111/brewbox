@@ -1,0 +1,22 @@
+[
+{
+    "_id": "643ad8e1b36f53dd43537826",
+    "statusName" : "pending"
+},
+{
+    "_id": "643c4a543e7b887cd8043873",
+    "statusName" : "Processing"
+},
+{
+    "_id": "643ad900b36f53dd4353782a",
+    "statusName" : "Ready"
+},
+{
+    "_id": "643ad911b36f53dd4353782c",
+    "statusName" : "Picked Up"
+},
+{
+    "_id": "643ad8f8b36f53dd43537828",
+    "statusName" : "cancelled "
+}
+]

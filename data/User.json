@@ -1,0 +1,81 @@
+[
+    {   
+        "_id" : "61f5cdd75e0e54d847f8ab7d",
+        "firstName": "John",
+        "lastName": "Doe",
+        "phoneNumber": 1234567890,
+        "emailID": "johndoe@example.com",
+        "street1": "123 Main St",
+        "street2": "Apt 4B",
+        "pin": 12345,
+        "state": "New York",
+        "role": "User",
+        "orders": [],
+        "otp": "1234",
+        "createdAt": "2022-04-16T12:00:00Z"
+    },
+
+    {
+        "_id" : "61f5cdd75e0e54d847f8ab81",
+        "firstName": "Jane",
+        "lastName": "Doe",
+        "phoneNumber": 9876543210,
+        "emailID": "janedoe@example.com",
+        "street1": "456 Elm St",
+        "street2": "",
+        "pin": 67890,
+        "state": "California",
+        "role": "Admin",
+        "orders": ["61f5cdd75e0e54d847f8ab7c", "61f5cdd75e0e54d847f8ab7d"],
+        "otp": "5678",
+        "createdAt": "2022-04-15T12:00:00Z"
+    },
+
+    {
+        "_id" : "61f5cdd75e0e54d847f8ab7c",
+        "firstName": "Bob",
+        "lastName": "Smith",
+        "phoneNumber": 5555555555,
+        "emailID": "bobsmith@example.com",
+        "street1": "789 Oak St",
+        "street2": "",
+        "pin": 45678,
+        "state": "Texas",
+        "role": "User",
+        "orders": ["61f5cdd75e0e54d847f8ab81"],
+        "otp": "9012",
+        "createdAt": "2022-04-14T12:00:00Z"
+    },
+
+    {
+        "_id" : "61f5cdd75e0e54d847f8ab86",
+        "firstName": "Alice",
+        "lastName": "Johnson",
+        "phoneNumber": 1112223333,
+        "emailID": "alicejohnson@example.com",
+        "street1": "321 Maple St",
+        "street2": "Unit 10",
+        "pin": 23456,
+        "state": "Florida",
+        "role": "User",
+        "orders": ["61f5cdd75e0e54d847f8ab86"],
+        "otp": "3456",
+        "createdAt": "2022-04-13T12:00:00Z"
+    },
+
+    {
+        "_id" : "61f5cdd75e0e54d847f8ab8b",
+        "firstName": "Mike",
+        "lastName": "Brown",
+        "phoneNumber": 4444444444,
+        "emailID": "mikebrown@example.com",
+        "street1": "555 Pine St",
+        "street2": "",
+        "pin": 78901,
+        "state": "Arizona",
+        "role": "User",
+        "orders": ["61f5cdd75e0e54d847f8ab8b"],
+        "otp": "7890",
+        "createdAt": "2022-04-12T12:00:00Z"
+    }
+]

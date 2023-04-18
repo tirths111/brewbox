@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "643b0dc998c805254f3f0f8c",
+        "name": "Appetizers"
+      },
+      {
+        "_id":"643b0dd198c805254f3f0f8e",
+        "name": "Entrees"
+        
+      },
+      {
+        "_id": "643b0dd898c805254f3f0f90",
+        "name": "Desserts"
+        
+      },
+      {
+        "_id":  "643b0dde98c805254f3f0f92",
+        "name": "Beverages"
+       
+      },
+      {
+        "_id": "643b0dea98c805254f3f0f94",
+        "name": "Salads"
+        
+      }
+]
